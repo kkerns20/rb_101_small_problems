@@ -1,2 +1,163 @@
-# rb_101_small_problems
+# RB 101 Small Problems
+
 Solutions to the Launch School rb101-rb109 Small Problems Collection
+
+## Problems
+
+- [] Easy 1
+  - [] [Repeat Yourself](./easy1/1.rb)
+  - [] [Odd](./easy1/2.rb)
+  - [] [List of Digits](./easy1/3.rb)
+  - [] [How Many?](./easy1/4.rb)
+  - [] [Reverse It (Part 1)](./easy1/5.rb)
+  - [] [Reverse It (Part 2)](./easy1/6.rb)
+  - [] [Stringy Strings](./easy1/7.rb)
+  - [] [Array Average](./easy1/8.rb)
+  - [] [Sum of Digits](./easy1/9.rb)
+  - [] [What's my Bonus?](./easy1/10.rb)
+
+- [] Easy 2
+  - [] [How old is Teddy?](./easy2/1.rb)
+  - [] [How big is the room?](./easy2/2.rb)
+  - [] [Tip calculator](./easy2/3.rb)
+  - [] [When will I Retire?](./easy2/4.rb)
+  - [] [Greeting a user](./easy2/5.rb)
+  - [] [Odd Numbers](./easy2/6.rb)
+  - [] [Even Numbers](./easy2/7.rb)
+  - [] [Sum or Product of Consecutive Integers](./easy2/8.rb)
+  - [] [String Assignment](./easy2/9.rb)
+  - [] [Mutation](./easy2/10.rb)
+
+- [] Easy 3
+  - [] [Searching 101](./easy3/1.rb)
+  - [] [Arithmetic Integer](./easy3/2.rb)
+  - [] [Counting the Number of Characters](./easy3/3.rb)
+  - [] [Multiplying Two Numbers](./easy3/4.rb)
+  - [] [Squaring an Argument](./easy3/5.rb)
+  - [] [Exclusive Or](./easy3/6.rb)
+  - [] [Odd Lists](./easy3/7.rb)
+  - [] [Palindromic Strings (Part 1)](./easy3/8.rb)
+  - [] [Palindromic Strings (Part 2)](./easy3/9.rb)
+  - [] [Palindromic Numbers](./easy3/10.rb)
+
+- [] Easy 4
+  - [] [Short Long Short](./easy4/1.rb)
+  - [] [What Century is That?](./easy4/2.rb)
+  - [] [Leap Years (Part 1)](./easy4/3.rb)
+  - [] [Leap Years (Part 2)](./easy4/4.rb)
+  - [] [Multiples of 3 and 5](./easy4/5.rb)
+  - [] [Running Totals](./easy4/6.rb)
+  - [] [Convert a String to a Number!](./easy4/7.rb)
+  - [] [Convert a String to a Signed Number!](./easy4/8.rb)
+  - [] [Convert a Number to a String!](./easy4/9.rb)
+  - [] [Convert a Signed Number to a String!](./easy4/10.rb)
+
+- [] Easy 5
+  - [] [ASCII String Value](./easy5/1.rb)
+  - [] [After Midnight (Part 1)](./easy5/2.rb)
+  - [] [After Midnight (Part 2)](./easy5/3.rb)
+  - [] [Letter Swap](./easy5/4.rb)
+  - [] [Clean up the words](./easy5/5.rb)
+  - [] [Letter Counter (Part 1)](./easy5/6.rb)
+  - [] [Letter Counter (Part 2)](./easy5/7.rb)
+  - [] [Alphabetical Numbers](./easy5/8.rb)
+  - [] [ddaaiillyy ddoouubbllee](./easy5/9.rb)
+  - [] [Bannerizer](./easy5/10.rb)
+  - [] [Spin Me Around In Circles](./easy5/11.rb)
+
+- [] Easy 6
+  - [] [Cute angles](./easy6/1.rb)
+  - [] [Delete vowels](./easy6/2.rb)
+  - [] [Fibonacci Number Location By Length](./easy6/3.rb)
+  - [] [Reversed Arrays (Part 1)](./easy6/4.rb)
+  - [] [Reversed Arrays (Part 2)](./easy6/5.rb)
+  - [] [Combining Arrays](./easy6/6.rb)
+  - [] [Halvsies](./easy6/7.rb)
+  - [] [Find the Duplicate](./easy6/8.rb)
+  - [] [Does My List Include This?](./easy6/9.rb)
+  - [] [Right Triangles](./easy6/10.rb)
+
+- [] Easy 7
+  - [] [Combine Two Lists](./easy7/1.rb)
+  - [] [Lettercase Counter](./easy7/2.rb)
+  - [] [Capitalize Words](./easy7/3.rb)
+  - [] [Swap Case](./easy7/4.rb)
+  - [] [Staggered Caps (Part 1)](./easy7/5.rb)
+  - [] [Staggered Caps (Part 2)](./easy7/6.rb)
+  - [] [Multiplicative Average](./easy7/7.rb)
+  - [] [Multiply Lists](./easy7/8.rb)
+  - [] [Multiply All Pairs](./easy7/9.rb)
+  - [] [The End Is Near But Not Here](./easy7/10.rb)
+
+- [] Easy 8
+  - [] [Sum of Sums](./easy8/1.rb)
+  - [] [Madlibs](./easy8/2.rb)
+  - [] [Leading Substrings](./easy8/3.rb)
+  - [] [All Substrings](./easy8/4.rb)
+  - [] [Palindromic Substrings](./easy8/5.rb)
+  - [] [fizzbuzz](./easy8/6.rb)
+  - [] [Double Char (Part 1)](./easy8/7.rb)
+  - [] [Double Char (Part 2)](./easy8/8.rb)
+  - [] [Reverse the Digits In a Number](./easy8/9.rb)
+  - [] [Get The Middle Character](./easy8/10.rb)
+
+- [] Easy 7
+  - [] [Welcome Stranger](./easy9/1.rb)
+  - [] [Double Doubles](./easy9/2.rb)
+  - [] [Always Return Negative](./easy9/3.rb)
+  - [] [Counting Up](./easy9/4.rb)
+  - [] [Uppercase Check](./easy9/5.rb)
+  - [] [How long are you?](./easy9/6.rb)
+  - [] [Name Swapping](./easy9/7.rb)
+  - [] [Sequence Count](./easy9/8.rb)
+  - [] [Grade book](./easy9/9.rb)
+  - [] [Grocery List](./easy9/10.rb)
+  - [] [Group Anagrams](./easy9/11.rb)
+
+- [] Medium 1
+  - [] [Rotation (Part 1)](./medium1/1.rb)
+  - [] [Rotation (Part 2)](./medium1/2.rb)
+  - [] [Rotation (Part 3)](./medium1/3.rb)
+  - [] [1000 Lights](./medium1/4.rb)
+  - [] [Diamonds!](./medium1/5.rb)
+  - [] [Stack Machine Interpretation](./medium1/6.rb)
+  - [] [Word to Digit](./medium1/7.rb)
+  - [] [Fibonacci Numbers (Recursion)](./medium1/8.rb)
+  - [] [Fibonacci Numbers (Procedural)](./medium1/9.rb)
+  - [] [Fibonacci Numbers (Last Digit)](./medium1/10.rb)
+
+- [] Medium 2
+  - [] [Longest Sentence](./medium2/1.rb)
+  - [] [Now I Know My ABCs](./medium2/2.rb)
+  - [] [Lettercase Percentage Ratio](./medium2/3.rb)
+  - [] [Matching Parentheses?](./medium2/4.rb)
+  - [] [Triangle Sides](./medium2/5.rb)
+  - [] [Tri-Angles](./medium2/6.rb)
+  - [] [Unlucky Days](./medium2/7.rb)
+  - [] [Next Featured Number Higher than a Given Value](./medium2/8.rb)
+  - [] [Bubble Sort](./medium2/9.rb)
+  - [] [Sum Square - Square Sum](./medium2/10.rb)
+
+- [] Advanced 1
+  - [] [Madlibs Revisited](./advanced1/1.rb)
+  - [] [Seeing Stars](./advanced1/2.rb)
+  - [] [Transpose 3x3](./advanced1/3.rb)
+  - [] [Transpose MxN](./advanced1/4.rb)
+  - [] [Rotating Matrices](./advanced1/5.rb)
+  - [] [Fix the Bug](./advanced1/6.rb)
+  - [] [Merge Sorted Lists](./advanced1/7.rb)
+  - [] [Merge Sort](./advanced1/8.rb)
+  - [] [Egyptian Fractions](./advanced1/9.rb)
+
+- [] Debugging
+  - [] [Countdown](./debugging/1.rb)
+  - [] [HEY YOU!](./debugging/2.rb)
+  - [] [Valid Series?](./debugging/3.rb)
+  - [] [Reverse Sentence](./debugging/4.rb)
+  - [] [Card Deck](./debugging/5.rb)
+  - [] [Getting Things Done](./debugging/6.rb)
+  - [] [Neutralizer](./debugging/7.rb)
+  - [] [Password](./debugging/8.rb)
+  - [] [Number Guessing Game](./debugging/9.rb)
+  - [] [TF-IDF](./debugging/10.rb)
+  - [] [What's wrong with the output?](./debugging/10.rb)
