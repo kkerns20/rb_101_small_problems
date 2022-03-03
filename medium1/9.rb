@@ -27,3 +27,20 @@ p fibonacci_last(100_001)   # -> 1 (this is a 20899 digit number)
 p fibonacci_last(1_000_007) # -> 3 (this is a 208989 digit number)
 p fibonacci_last(123456789) # -> 4
 
+# Further Exploration
+# last digits repeat every 60th number in the sequence
+
+def fibonacci_last2(nth)
+  first, last = [1, 1]
+  sequence_count = 2
+  if nth % 60 == 0
+    return 0
+  else
+    3.upto(nth % 60) do
+      first, last = [last, (first + last) % 10]
+    end
+    last
+  end
+end
+
+p fibonacci_last2(123_456_789_987_745) == 5
