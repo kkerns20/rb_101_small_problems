@@ -19,7 +19,7 @@ REPLACEMENTS = {
   adverb:    %w(easily lazily noisily excitedly),
 }
 
-template_text = File.read('madlibs_revisited.txt')
+template_text = File.read('madlibs.txt')
 mad_text = template_text.gsub(/%{([a-z]*)}/) do |_|
   REPLACEMENTS[$1.to_sym].sample
 end
